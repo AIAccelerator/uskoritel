@@ -31,4 +31,4 @@
 Тук ще намериш:
 33 примера в код, писани от експерт - програмист които да изпълняваш.
 
-https://programming.convertbuilder.com
+https://aiaccelerator.bg
